@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stripe POC</string>
+    <string name="stripe_client_secret">sk_test_51Op20bSCcqOloxrmYKCvHQDnJCJUZUf6VZ6CYcCD8Qi4ix3am3gjvUWAIU0J9uzl6AG6Y5GM2djbjKPKh5CLEYL000H1Xftt0E</string>
+    <string name="stripe_publishable_key">pk_test_51Op20bSCcqOloxrm2rqrGrS4JjNBiBMbN05XhwsMLQ5d8ZwYgN1NOR5AAZpYnIFoTE1dMoqvffp3nOsCMjlekCM500bjCZhDEx</string>
+</resources>
